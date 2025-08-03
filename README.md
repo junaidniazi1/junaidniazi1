@@ -1,4 +1,4 @@
-![logo](https://github.com/junaidniazi1/junaidniazi1/blob/main/DATA%20ENGINEER%20(2)%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Junaid Khan</h1>
 <h3 align="center">A passionate Data Science student & Aspiring Data Engineer</h3>
 
